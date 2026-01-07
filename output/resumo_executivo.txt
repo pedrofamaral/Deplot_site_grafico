@@ -1,0 +1,11 @@
+Total de produtos mapeados: 120.962.090
+Total de subcategorias analisadas: 4007
+Subcategorias sem nenhum produto: 40
+Subcategorias com até 10 produtos (possíveis gaps): 831
+
+Top 5 categorias de nível 1 por volume:
+- Acessórios para Veículos: 120.367.600 produtos (99.51% do total)
+- nan: 391.929 produtos (0.32% do total)
+- Arte. Papelaria e Armarinho: 157.793 produtos (0.13% do total)
+- Festas e Lembrancinhas: 13.856 produtos (0.01% do total)
+- Construção: 11.678 produtos (0.01% do total)

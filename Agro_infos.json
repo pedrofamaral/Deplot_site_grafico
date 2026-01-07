@@ -1,0 +1,1597 @@
+{
+    "total_acumulado_veiculos": 649189,
+    "ultima_atualizacao": "2026-01-05 14:51:09",
+    "categorias_concluidas_count": 32,
+    "detalhes": [
+        {
+            "categoria": "Agro > Lubrificantes e Fluidos > Aditivos",
+            "quantidade": 192,
+            "link": "https://lista.mercadolivre.com.br/lubrificantes-e-fluidos-aditivos/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Lubrificantes e Fluidos > Graxas",
+            "quantidade": 53,
+            "link": "https://lista.mercadolivre.com.br/lubrificantes-e-fluidos-graxas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Lubrificantes e Fluidos > Outros",
+            "quantidade": 45,
+            "link": "https://lista.mercadolivre.com.br/lubrificantes-e-fluidos-outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Lubrificantes e Fluidos > Óleos de Motor",
+            "quantidade": 779,
+            "link": "https://lista.mercadolivre.com.br/lubrificantes-e-fluidos-oleos-motor/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Alimentadores",
+            "quantidade": 30,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/alimentadores/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Baterias",
+            "quantidade": 190,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/baterias/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Abertura Capô",
+            "quantidade": 525,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/abertura-capo/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Alavancas > Alavancas de Câmbio",
+            "quantidade": 1620,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/alavancas/alavancas-cambio/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Alavancas > Alavancas de Hidáulicos",
+            "quantidade": 437,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/alavancas/alavancas-hidaulicos/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Alavancas > Outros",
+            "quantidade": 4,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/alavancas/outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Alças do Assentos",
+            "quantidade": 439,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/alcas-assentos/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Assentos",
+            "quantidade": 9590,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/assentos/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Capas para Bancos",
+            "quantidade": 793,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/capas-bancos/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Carcaças para Painéis",
+            "quantidade": 61,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/carcacas-paineis/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Coifas",
+            "quantidade": 185,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/coifas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Coifas de Câmbio",
+            "quantidade": 850,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/coifas-cambio/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Dobradiças",
+            "quantidade": 292,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/dobradicas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Dobradiças de Porta",
+            "quantidade": 251,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/dobradicas-porta/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Emblemas",
+            "quantidade": 901,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/emblemas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Escovas de Limpa Para-brisas",
+            "quantidade": 1160,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/escovas-limpa-brisas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Espelhos",
+            "quantidade": 382,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/espelhos/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Faróis Dianteiros",
+            "quantidade": 1728,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/farois-dianteiros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Forros",
+            "quantidade": 180,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/forros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Frisos",
+            "quantidade": 147,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/frisos/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Grades de Faróis de Milha",
+            "quantidade": 1092,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/grades-farois-milha/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Interruptores > Botões de Bloqueio Central",
+            "quantidade": 848,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/chaves-botoes/botoes-bloqueio-central/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Interruptores > De Balizas",
+            "quantidade": 896,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/interruptores/balizas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Interruptores > De Desembaçadores",
+            "quantidade": 159,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/interruptores/desembacadores/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Interruptores > De Luzes",
+            "quantidade": 1397,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/interruptores/luzes/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Interruptores > De Para-brisas",
+            "quantidade": 192,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/interruptores/brisas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Interruptores > De Travas Centrais",
+            "quantidade": 197,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/interruptores/travas-centrais/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Interruptores > De Vidros",
+            "quantidade": 1251,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/interruptores/vidros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Interruptores > De Volantes",
+            "quantidade": 224,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/interruptores/volantes/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Interruptores > Outros",
+            "quantidade": 23,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/chaves-botoes/outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Luzes Internas",
+            "quantidade": 601,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/luzes-internas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Manopla de Câmbio",
+            "quantidade": 4593,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/manopla-cambio/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Maçanetas para Portas",
+            "quantidade": 1621,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/macanetas-portas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Outros",
+            "quantidade": 103,
+            "link": "https://lista.mercadolivre.com.br/pec-as-maquinaria-pesada-cabine-outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Painéis para Portas",
+            "quantidade": 56,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/paineis-portas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Para-Brisas",
+            "quantidade": 606,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/brisas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Pedais",
+            "quantidade": 204,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/pedais/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Porta-Luvas e Acessórios",
+            "quantidade": 1725,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/porta-luvas-acessorios/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Portas",
+            "quantidade": 237,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/portas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Protetores de Tapetes",
+            "quantidade": 1160,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/protetores-tapetes/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Quadros de Faróis Dianteiros",
+            "quantidade": 716,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/quadros-farois-dianteiros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Reservatórios de Para-Brisas",
+            "quantidade": 219,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/reservatorios-brisas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Travas de Volantes",
+            "quantidade": 34,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/travas-volantes/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Vedantes",
+            "quantidade": 2524,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cabine/vedantes/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cabine > Volantes",
+            "quantidade": 1005,
+            "link": "https://lista.mercadolivre.com.br/pec-as-maquinaria-pesada-cabine-volantes/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Caixas do Alimentador",
+            "quantidade": 38,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/caixas-alimentador/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Carroceria > Antenas",
+            "quantidade": 230,
+            "link": "https://lista.mercadolivre.com.br/pec-as-maquinaria-pesada-carroceria-antenas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Carroceria > Cachas de Espelhos",
+            "quantidade": 3929,
+            "link": "https://lista.mercadolivre.com.br/pec-as-maquinaria-pesada-carroceria-cachas-espelhos/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Carroceria > Contrapesos",
+            "quantidade": 31,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/carroceria/contrapesos/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Carroceria > Enganches",
+            "quantidade": 399,
+            "link": "https://lista.mercadolivre.com.br/pec-as-maquinaria-pesada-carroceria-enganches/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Carroceria > Estribos",
+            "quantidade": 85,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/carroceria/estribos/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Carroceria > Faróis Exteriores > Faróis Traseiros",
+            "quantidade": 2738,
+            "link": "https://lista.mercadolivre.com.br/carroceria-faro-is-exteriores-traseiros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Carroceria > Faróis Exteriores > Faróis de Milhas",
+            "quantidade": 4730,
+            "link": "https://lista.mercadolivre.com.br/carroceria-faro-is-exteriores-milhas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Carroceria > Faróis Exteriores > Lanternas de Pisca",
+            "quantidade": 4473,
+            "link": "https://lista.mercadolivre.com.br/carroceria-faro-is-exteriores-lanternas-pisca/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Carroceria > Faróis Exteriores > Luzes de Freio",
+            "quantidade": 3719,
+            "link": "https://lista.mercadolivre.com.br/carroceria-faro-is-exteriores-luzes-freio/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Carroceria > Faróis Exteriores > Outros",
+            "quantidade": 6,
+            "link": "https://lista.mercadolivre.com.br/carroceria-faro-is-exteriores-outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Carroceria > Outros",
+            "quantidade": 25,
+            "link": "https://lista.mercadolivre.com.br/pec-as-maquinaria-pesada-carroceria-outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Carroceria > Para-choques",
+            "quantidade": 527,
+            "link": "https://lista.mercadolivre.com.br/pec-as-maquinaria-pesada-carroceria-choques/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Carroceria > Para-lamas",
+            "quantidade": 376,
+            "link": "https://lista.mercadolivre.com.br/pec-as-maquinaria-pesada-carroceria-lamas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Carroceria > Quebra Matos",
+            "quantidade": 110,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/carroceria/quebra-matos/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Catalisadores",
+            "quantidade": 45,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/catalisadores/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Cintos de Segurança",
+            "quantidade": 196,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/cintos-seguranca/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Climatização > Bobina Compressor",
+            "quantidade": 316,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/climatizacao/bobina-compressor/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Climatização > Compressores",
+            "quantidade": 1876,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/climatizacao/compressores/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Climatização > Condensadores",
+            "quantidade": 2009,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/climatizacao/condensadores/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Climatização > Difusores de Ar",
+            "quantidade": 4512,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/climatizacao/difusores-ar/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Climatização > Filtros Secadores",
+            "quantidade": 907,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/climatizacao/filtros-secadores/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Climatização > Kits Completos",
+            "quantidade": 13527,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/climatizacao/kits-completos/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Climatização > Motores de Calefação",
+            "quantidade": 442,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/climatizacao/motores-calefacao/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Climatização > Outros",
+            "quantidade": 200,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/climatizacao/outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Climatização > Painéis Evaporadores",
+            "quantidade": 1034,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/climatizacao/paineis-evaporadores/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Climatização > Rolamentos para Compressor",
+            "quantidade": 67,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/climatizacao/rolamentos-compressor/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Climatização > Válvulas Torre",
+            "quantidade": 233,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/climatizacao/valvulas-torre/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Direção e Freios > Kits de Freios",
+            "quantidade": 303,
+            "link": "https://lista.mercadolivre.com.br/pec-as-maquinaria-pesada-direc-a-e-freios-kits/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Direção e Freios > Mangueiras de Freio",
+            "quantidade": 171,
+            "link": "https://lista.mercadolivre.com.br/pec-as-maquinaria-pesada-direc-a-e-freios-mangueiras-freio/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Direção e Freios > Outros",
+            "quantidade": 69,
+            "link": "https://lista.mercadolivre.com.br/pec-as-maquinaria-pesada-direc-a-e-freios-outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Direção e Freios > Reservatórios de Fluidos",
+            "quantidade": 30,
+            "link": "https://lista.mercadolivre.com.br/as-maquinaria-pesada-direc-a-e-freios-reservato-rios-fluidos/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Discos Marcadores",
+            "quantidade": 225,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/discos-marcadores/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Eixo Diantero e Direção > Buchas",
+            "quantidade": 2878,
+            "link": "https://lista.mercadolivre.com.br/pec-as-maquinaria-pesada-eixo-diantero-e-direc-a-buchas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Eixo Diantero e Direção > Coroas Dentadas",
+            "quantidade": 266,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/eixo-diantero-direcao/coroas-dentadas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Eixo Diantero e Direção > Direção Hidráulica > Bombas Hidráulicas",
+            "quantidade": 509,
+            "link": "https://lista.mercadolivre.com.br/eixo-diantero-e-direc-a-hidra-ulica-bombas-ulicas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Eixo Diantero e Direção > Direção Hidráulica > Caixas de Direção Hidráulica",
+            "quantidade": 1095,
+            "link": "https://lista.mercadolivre.com.br/eixo-diantero-e-direc-a-hidra-ulica-caixas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Eixo Diantero e Direção > Direção Hidráulica > Mangueiras de Direção",
+            "quantidade": 917,
+            "link": "https://lista.mercadolivre.com.br/eixo-diantero-e-direc-a-hidra-ulica-mangueiras/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Eixo Diantero e Direção > Direção Hidráulica > Outros",
+            "quantidade": 2,
+            "link": "https://lista.mercadolivre.com.br/eixo-diantero-e-direc-a-hidra-ulica-outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Eixo Diantero e Direção > Direção Hidráulica > Reservatórios Óleo Hidráulico",
+            "quantidade": 150,
+            "link": "https://lista.mercadolivre.com.br/eixo-diantero-e-direc-a-hidra-ulica-reservato-rios-leo-ulico/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Eixo Diantero e Direção > Juntas Axiais",
+            "quantidade": 340,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/eixo-diantero-direcao/juntas-axiais/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Eixo Diantero e Direção > Outros",
+            "quantidade": 181,
+            "link": "https://lista.mercadolivre.com.br/pec-as-maquinaria-pesada-eixo-diantero-e-direc-a-outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Eixo Diantero e Direção > Terminais de Direção",
+            "quantidade": 2066,
+            "link": "https://lista.mercadolivre.com.br/pec-as-maquinaria-pesada-eixo-diantero-e-direc-a-terminais/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Electroventiladores > Defletores",
+            "quantidade": 270,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/electroventiladores/defletores/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Electroventiladores > Interruptores",
+            "quantidade": 252,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/electroventiladores/interruptores/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Electroventiladores > Interruptores de Expansão",
+            "quantidade": 290,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/electroventiladores/interruptores-expansao/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Electroventiladores > Motores Ventiladores",
+            "quantidade": 509,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/electroventiladores/motores-ventiladores/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Electroventiladores > Outros",
+            "quantidade": 0,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/electroventiladores/outros/"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Electroventiladores > Polias Viscosas",
+            "quantidade": 108,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/electroventiladores/polias-viscosas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Electroventiladores > Pressostatos",
+            "quantidade": 550,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/electroventiladores/pressostatos/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Escapamentos Completos",
+            "quantidade": 154,
+            "link": "https://lista.mercadolivre.com.br/pec-as-maquinaria-pesada-escapamentos-completos/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Fechaduras e Chaves > Cilindro de Ignição",
+            "quantidade": 153,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/fechaduras-chaves/cilindro-ignicao/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Fechaduras e Chaves > Comutadores de Ignição",
+            "quantidade": 698,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/fechaduras-chaves/comutadores-ignicao/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Fechaduras e Chaves > Fechadura de Capôs",
+            "quantidade": 670,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/fechaduras-chaves/fechadura-capos/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Fechaduras e Chaves > Fechaduras de Portas",
+            "quantidade": 978,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/fechaduras-chaves/fechaduras-portas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Fechaduras e Chaves > Interruptores de Energia",
+            "quantidade": 4856,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/fechaduras-chaves/interruptores-energia/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Fechaduras e Chaves > Outros",
+            "quantidade": 9,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/fechaduras-chaves/outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Filtros > Filtros Hidráulicos",
+            "quantidade": 1642,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/filtros/filtros-hidraulicos/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Filtros > Filtros de Ar",
+            "quantidade": 23400,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/filtros/filtros-ar/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Filtros > Filtros de Cabine",
+            "quantidade": 1034,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/filtros/filtros-cabine/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Filtros > Filtros de Combustível",
+            "quantidade": 13540,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/filtros/filtros-combustivel/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Filtros > Filtros de Óleo",
+            "quantidade": 6762,
+            "link": "https://lista.mercadolivre.com.br/pec-as-maquinaria-pesada-filtros-leo/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Filtros > Kit de Filtros",
+            "quantidade": 53079,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/filtros/kit-filtros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Filtros > Outros",
+            "quantidade": 136,
+            "link": "https://lista.mercadolivre.com.br/pec-as-maquinaria-pesada-filtros-outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Freios > Cabos de Freio de Mão",
+            "quantidade": 144,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/freios/cabos-freio-mao/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Freios > Cilindros de Freio",
+            "quantidade": 774,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/freios/cilindros-freio/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Freios > Cilindros de Rodas",
+            "quantidade": 167,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/freios/cilindros-rodas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Freios > Discos de Freio",
+            "quantidade": 823,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/freios/discos-freio/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Freios > Interruptores",
+            "quantidade": 307,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/freios/interruptores/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Freios > Outros",
+            "quantidade": 34,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/freios/outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Freios > Pastilhas de Freios",
+            "quantidade": 289,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/freios/pastilhas-freios/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Freios > Pinos de Freio",
+            "quantidade": 447,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/freios/pinos-freio/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Freios > Pistão de Freio",
+            "quantidade": 109,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/freios/pistao-freio/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Freios > Reguladores de Freios",
+            "quantidade": 116,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/freios/reguladores-freios/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Freios > Sapatas de Freio",
+            "quantidade": 205,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/freios/sapatas-freio/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Freios > Sensores de Pastilhas de Freio",
+            "quantidade": 37,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/freios/sensores-pastilhas-freio/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Freios > Servo-freios",
+            "quantidade": 14,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/freios/servo-freios/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Freios > Tambores",
+            "quantidade": 112,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/freios/tambores/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Ignição > Bobinas de Ignição",
+            "quantidade": 2336,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/ignicao/bobinas-ignicao/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Ignição > Chaves Corta Circuito",
+            "quantidade": 280,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/ignicao/chaves-corta-circuito/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Ignição > Distribuidores e Peças > Distribuidores",
+            "quantidade": 57,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/ignicao/distribuidores-pecas/distribuidores/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Ignição > Distribuidores e Peças > Outros",
+            "quantidade": 3,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/ignicao/distribuidores-pecas/outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Ignição > Distribuidores e Peças > Tampas do Distribuidor",
+            "quantidade": 70,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/ignicao/distribuidores-pecas/tampas-distribuidor/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Ignição > Módulos de Ignição",
+            "quantidade": 800,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/ignicao/modulos-ignicao/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Ignição > Outros",
+            "quantidade": 6,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/ignicao/outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Ignição > Velas Aquecedoras",
+            "quantidade": 340,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/ignicao/velas-aquecedoras/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Iluminação > Lentes > Lentes de Faróis Traseiros",
+            "quantidade": 129,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/iluminacao/lentes/lentes-farois-traseiros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Iluminação > Lentes > Lentes de Faróis de Pisca",
+            "quantidade": 484,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/iluminacao/lentes/lentes-farois-pisca/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Iluminação > Lentes > Outros",
+            "quantidade": 17,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/iluminacao/lentes/outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Iluminação > Lâmpadas",
+            "quantidade": 388,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/iluminacao/lampadas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Implementos e Tomado de Força",
+            "quantidade": 614,
+            "link": "https://lista.mercadolivre.com.br/pec-as-maquinaria-pesada-implementos-e-tomado-forc-a/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Injeção > Canos de Injetores",
+            "quantidade": 250,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/injecao/canos-injetores/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Injeção > Corpos de Borboleta",
+            "quantidade": 126,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/injecao/corpos-borboleta/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Injeção > Economizadores de Combustível",
+            "quantidade": 124,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/injecao/economizadores-combustivel/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Injeção > Flautas de Combustível",
+            "quantidade": 165,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/injecao/flautas-combustivel/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Injeção > Injetores de Combustível",
+            "quantidade": 7462,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/injecao/injetores-combustivel/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Injeção > Outros",
+            "quantidade": 11,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/injecao/outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Injeção > Reguladores de Pressão",
+            "quantidade": 525,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/injecao/reguladores-pressao/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Injeção > Sensores MAP",
+            "quantidade": 91,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/injecao/sensores-map/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Injeção > Sensores de Rotação",
+            "quantidade": 395,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/injecao/sensores-rotacao/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Injeção > Sensores de Velocidade",
+            "quantidade": 1177,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/injecao/sensores-velocidade/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Injeção > Válvulas EGR",
+            "quantidade": 56,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/injecao/valvulas-egr/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Anéis",
+            "quantidade": 7919,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-pesada/tratores/motor/aneis/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Bombas > Bombas Injetoras",
+            "quantidade": 767,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/bombas/bombas-injetoras/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Bombas > Bombas de Combustível",
+            "quantidade": 4772,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/bombas/bombas-combustivel/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Bombas > Bombas de Água",
+            "quantidade": 7914,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/bombas/bombas-agua/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Bombas > Bombas de Óleo",
+            "quantidade": 1268,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/bombas/bombas-oleo/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Bombas > Outros",
+            "quantidade": 32,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/bombas/outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Bombas > Polias para Bombas de Água",
+            "quantidade": 179,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/bombas/polias-bombas-agua/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Bronzinas",
+            "quantidade": 1516,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-pesada/tratores/motor/bronzinas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Buchas",
+            "quantidade": 4036,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-pesada/tratores/motor/buchas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Cabos de Comandos > Cabos Aceleradores",
+            "quantidade": 971,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/cabos-comandos/cabos-aceleradores/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Cabos de Comandos > Cabos Afogadores",
+            "quantidade": 210,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/cabos-comandos/cabos-afogadores/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Cabos de Comandos > Cabos de Velocímetro",
+            "quantidade": 109,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/cabos-comandos/cabos-velocimetro/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Cabos de Comandos > Outros",
+            "quantidade": 27,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/cabos-comandos/outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Camisas de Motor",
+            "quantidade": 283,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/camisas-motor/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Carburadores",
+            "quantidade": 1831,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/carburadores/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Coletores de Admissão",
+            "quantidade": 912,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/coletores-admissao/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Coletores de Escapamento",
+            "quantidade": 471,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/coletores-escapamento/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Componentes de Motor > Batentes de Cilindros > Balancins",
+            "quantidade": 230,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/componentes-motor/batentes-cilindros/balancins/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Componentes de Motor > Batentes de Cilindros > Molas de Válvulas",
+            "quantidade": 1591,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/componentes-motor/batentes-cilindros/molas-valvulas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Componentes de Motor > Batentes de Cilindros > Outros",
+            "quantidade": 8,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/componentes-motor/batentes-cilindros/outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Componentes de Motor > Batentes de Cilindros > Parafusos de Cabeçotes",
+            "quantidade": 435,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/componentes-motor/batentes-cilindros/parafusos-cabecotes/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Componentes de Motor > Batentes de Cilindros > Tampas de Cilindros",
+            "quantidade": 2029,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/componentes-motor/batentes-cilindros/tampas-cilindros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Componentes de Motor > Batentes de Cilindros > Tampas de Válvulas",
+            "quantidade": 873,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/componentes-motor/batentes-cilindros/tampas-valvulas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Componentes de Motor > Batentes de Cilindros > Válvulas",
+            "quantidade": 4637,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/componentes-motor/batentes-cilindros/valvulas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Componentes de Motor > Batentes de Cilindros > Árvores de Cames",
+            "quantidade": 255,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/componentes-motor/batentes-cilindros/arvores-cames/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Componentes de Motor > Blocos de Motores > Bielas",
+            "quantidade": 314,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/componentes-motor/blocos-motores/bielas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Componentes de Motor > Blocos de Motores > Bloco de Motores",
+            "quantidade": 198,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/componentes-motor/blocos-motores/bloco-motores/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Componentes de Motor > Blocos de Motores > Bronzinas",
+            "quantidade": 433,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/componentes-motor/blocos-motores/bronzinas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Componentes de Motor > Blocos de Motores > Kits de Pistãos e Camisas",
+            "quantidade": 1967,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/componentes-motor/blocos-motores/kits-pistaos-camisas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Componentes de Motor > Blocos de Motores > Outros",
+            "quantidade": 1,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/componentes-motor/blocos-motores/outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Componentes de Motor > Blocos de Motores > Tapones de Bloco",
+            "quantidade": 76,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/componentes-motor/blocos-motores/tapones-bloco/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Componentes de Motor > Blocos de Motores > Tuchos",
+            "quantidade": 170,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/componentes-motor/blocos-motores/tuchos/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Componentes de Motor > Cárters de Motores > Cárters Completos",
+            "quantidade": 944,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/componentes-motor/carters-completos/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Componentes de Motor > Cárters de Motores > Outros",
+            "quantidade": 1,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/componentes-motor/carters-motores/outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Componentes de Motor > Cárters de Motores > Pescadores de Óleo",
+            "quantidade": 248,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/componentes-motor/carters-motores/pescadores-oleo/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Componentes de Motor > Outros",
+            "quantidade": 148,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/componentes-motor/outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Correias de Acessórios > Correias Poly V",
+            "quantidade": 2363,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/correias-acessorios/correias-poly-v/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Correias de Acessórios > Outros",
+            "quantidade": 9,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/correias-acessorios/outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Correias de Acessórios > Tensores Poly V",
+            "quantidade": 157,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/correias-acessorios/tensores-poly-v/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Distribuição > Correias",
+            "quantidade": 10216,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/distribuicao/correias/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Distribuição > Engrenagem Virabrequim",
+            "quantidade": 270,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/distribuicao/engrenagem-virabrequim/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Distribuição > Outros",
+            "quantidade": 5,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/distribuicao/outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Distribuição > Tensor do Distribuidor",
+            "quantidade": 965,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/distribuicao/tensor-distribuidor/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Engrenagens",
+            "quantidade": 1722,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/engrenagens/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Juntas",
+            "quantidade": 8788,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-pesada/tratores/motor/juntas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Kits de Motor",
+            "quantidade": 127375,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/kits-motor/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Mangueiras de Admissão",
+            "quantidade": 417,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/mangueiras-admissao/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Mangueiras do Intercoolers",
+            "quantidade": 327,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/mangueiras-intercoolers/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Outros",
+            "quantidade": 548,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-pesada/tratores/motor/outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Pistões",
+            "quantidade": 2927,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-pesada/tratores/motor/pistoes/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Polias do Virabrequim",
+            "quantidade": 438,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/polias-virabrequim/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Radiadores > Intercoolers",
+            "quantidade": 94,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/radiadores/intercoolers/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Radiadores > Mangueiras",
+            "quantidade": 775,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/radiadores/mangueiras/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Radiadores > Outros",
+            "quantidade": 5,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/radiadores/outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Radiadores > Radiadores de Água",
+            "quantidade": 785,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/radiadores/radiadores-agua/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Radiadores > Radiadores de Óleo",
+            "quantidade": 729,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/radiadores/radiadores-oleo/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Radiadores > Tampas de Radiadores",
+            "quantidade": 464,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/tampas-radiadores/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Radiadores > Tanque de Líquido Refrigerante",
+            "quantidade": 100,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/radiadores/tanque-liquido-refrigerante/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Retentores",
+            "quantidade": 7484,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/retentores/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Sensores de Temperatura",
+            "quantidade": 1422,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/sensores-temperatura/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Sensores de Óleo",
+            "quantidade": 1044,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/sensores-oleo/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Silenciosos",
+            "quantidade": 1376,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-pesada/tratores/motor/silenciosos/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Sistema de Partida > Alternadores e Peças > Alternadores",
+            "quantidade": 3368,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/sistema-partida/alternadores-pecas/alternadores/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Sistema de Partida > Alternadores e Peças > Conversores de Voltagem",
+            "quantidade": 1030,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/sistema-partida/alternadores-pecas/conversores-voltagem/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Sistema de Partida > Alternadores e Peças > Estatores",
+            "quantidade": 110,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/sistema-partida/alternadores-pecas/estatores/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Sistema de Partida > Alternadores e Peças > Outros",
+            "quantidade": 0,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/sistema-partida/alternadores-pecas/outros/"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Sistema de Partida > Alternadores e Peças > Polias de Alternador",
+            "quantidade": 1753,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/sistema-partida/alternadores-pecas/polias-alternador/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Sistema de Partida > Alternadores e Peças > Reguladores de Voltagem",
+            "quantidade": 569,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/sistema-partida/alternadores-pecas/reguladores-voltagem/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Sistema de Partida > Alternadores e Peças > Retificadores de Alternador",
+            "quantidade": 611,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/sistema-partida/alternadores-pecas/retificadores-alternador/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Sistema de Partida > Alternadores e Peças > Rotores",
+            "quantidade": 79,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/sistema-partida/alternadores-pecas/rotores/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Sistema de Partida > Alternadores e Peças > Suportes de Alternador",
+            "quantidade": 92,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/sistema-partida/alternadores-pecas/suportes-alternador/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Sistema de Partida > Motor de Partida",
+            "quantidade": 9862,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/sistema-partida/motor-partida/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Sistema de Partida > Outros",
+            "quantidade": 3,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/sistema-partida/outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Sistema de Partida > Velas de Ignição",
+            "quantidade": 1431,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/sistema-partida/velas-ignicao/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Suportes de Motor",
+            "quantidade": 577,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/suportes-motor/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Tampas de Motor",
+            "quantidade": 1219,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/tampas-motor/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Tampas de Óleo",
+            "quantidade": 1014,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/tampas-oleo/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Termostatos",
+            "quantidade": 1756,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-pesada/tratores/motor/termostatos/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Vareta Nível de Óleo",
+            "quantidade": 1058,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/motor/vareta-nivel-oleo/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Ventiladores",
+            "quantidade": 3869,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-pesada/tratores/motor/ventiladores/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Motor > Virabrequins",
+            "quantidade": 1386,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-pesada/tratores/motor/virabrequins/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Outros",
+            "quantidade": 8102,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-pesada/outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Peças de Exterior > Amortecedores a Gás",
+            "quantidade": 621,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/pecas-exterior/amortecedores-gas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Peças de Exterior > Braços de Limpa Para-brisas",
+            "quantidade": 167,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/pecas-exterior/bracos-limpa-brisas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Peças de Exterior > Buzinas",
+            "quantidade": 496,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/pecas-exterior/buzinas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Peças de Exterior > Capas Cobertoras",
+            "quantidade": 131,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/pecas-exterior/capas-cobertoras/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Peças de Exterior > Espelhos Laterais",
+            "quantidade": 1035,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/pecas-exterior/espelhos-laterais/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Peças de Exterior > Motores de Limpa Para-brisas",
+            "quantidade": 1583,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/pecas-exterior/motores-limpa-brisas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Peças de Exterior > Outros",
+            "quantidade": 289,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/pecas-exterior/outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Peças de Exterior > Parafusos de Rodas",
+            "quantidade": 1080,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/pecas-exterior/parafusos-rodas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Peças de Exterior > Válvulas de Pneus",
+            "quantidade": 1321,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/pecas-exterior/valvulas-pneus/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Plataforma",
+            "quantidade": 1577,
+            "link": "https://lista.mercadolivre.com.br/pec-as-maquinaria-pesada-plataforma/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Quadros > Bóias de Combustível",
+            "quantidade": 361,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/bastidores/boias-combustivel/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Quadros > Grades de Para-choques",
+            "quantidade": 523,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/bastidores/grades-choques/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Quadros > Grampos",
+            "quantidade": 377,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/quadros/grampos/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Quadros > Outros",
+            "quantidade": 2,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/bastidores/outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Quadros > Pré-filtros de Combustível",
+            "quantidade": 280,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/quadros/pre-filtros-combustivel/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Quadros > Tapas de combustible",
+            "quantidade": 1133,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/bastidores/tapas-combustible/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Rodas",
+            "quantidade": 79,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/rodas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Sensores > Outros",
+            "quantidade": 12,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/sensores/outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Sensores > Sensores de Posição",
+            "quantidade": 1376,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/sensores/sensores-posicao/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Sensores > Sensores de Pressão",
+            "quantidade": 831,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/sensores-pressao/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Sistema Elétrico > Chicotes do Radio",
+            "quantidade": 1243,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/sistema-eletrico/chicotes-radio/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Sistema Elétrico > Modulos de Fusiveis",
+            "quantidade": 6874,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/sistema-eletrico/modulos-fusiveis/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Sistema Elétrico > Outros",
+            "quantidade": 210,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/sistema-eletrico/outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Sistema Elétrico > Tampas das caixas de Fusíveis",
+            "quantidade": 263,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/sistema-eletrico/tampas-caixas-fusiveis/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Sistema Hidráulico > Bombas Hidráulicas",
+            "quantidade": 2274,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/sistema-hidraulico/bombas-hidraulicas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Sistema Hidráulico > Outros",
+            "quantidade": 333,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/sistema-hidraulico/outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Sistema Hidráulico > Válvulas de Comando",
+            "quantidade": 3556,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/sistema-hidraulico/valvulas-comando/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Sistema de Pulverização",
+            "quantidade": 1343,
+            "link": "https://lista.mercadolivre.com.br/pec-as-maquinaria-pesada-sistema-pulverizac-a/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Suspensão e Direção > Amortecedores",
+            "quantidade": 755,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/suspensao-direcao/amortecedores/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Suspensão e Direção > Bandejas e Braços > Bandejas de Suspensão",
+            "quantidade": 355,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/suspensao-direcao/bandejas-bracos/bandejas-suspensao/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Suspensão e Direção > Bandejas e Braços > Braços Auxiliares",
+            "quantidade": 1063,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/suspensao-direcao/bandejas-bracos/bracos-auxiliares/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Suspensão e Direção > Bandejas e Braços > Outros",
+            "quantidade": 2,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/suspensao-direcao/bandejas-bracos/outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Suspensão e Direção > Barras Axiais",
+            "quantidade": 370,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/suspensao-direcao/barras-axiais/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Suspensão e Direção > Barras e Peças > Barras Estabilizadoras",
+            "quantidade": 665,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/suspensao-direcao/barras-pecas/barras-estabilizadoras/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Suspensão e Direção > Barras e Peças > Barras de Torção",
+            "quantidade": 142,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/suspensao-direcao/barras-pecas/barras-torcao/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Suspensão e Direção > Barras e Peças > Outros",
+            "quantidade": 1,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/suspensao-direcao/barras-pecas/outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Suspensão e Direção > Batentes de Amortecedores",
+            "quantidade": 311,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/suspensao-direcao/batentes-amortecedores/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Suspensão e Direção > Bolsas de Ar",
+            "quantidade": 234,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/suspensao-direcao/bolsas-ar/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Suspensão e Direção > Coxim Amortecedor",
+            "quantidade": 1218,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/suspensao-direcao/coxim-amortecedor/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Suspensão e Direção > Cubos de Rodas",
+            "quantidade": 1213,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/suspensao-direcao/cubos-rodas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Suspensão e Direção > Junções de Direção",
+            "quantidade": 136,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/suspensao-direcao/juncoes-direcao/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Suspensão e Direção > Kits de Amortecedores",
+            "quantidade": 32657,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/suspensao-direcao/kits-amortecedores/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Suspensão e Direção > Mangas de Eixo",
+            "quantidade": 473,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/suspensao-direcao/mangas-eixo/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Suspensão e Direção > Molas",
+            "quantidade": 200,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/suspensao-direcao/molas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Suspensão e Direção > Outros",
+            "quantidade": 61,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/suspensao-direcao/outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Suspensão e Direção > Pivôs",
+            "quantidade": 237,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/suspensao-direcao/pivos/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Suspensão e Direção > Pontas de Eixos",
+            "quantidade": 11846,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/suspensao-direcao/pontas-eixos/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Suspensão e Direção > Rolamentos de Rodas",
+            "quantidade": 12304,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/suspensao-direcao/rolamentos-rodas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Suspensão e Direção > Semi-Eixos e Homocinéticas > Cruzetas",
+            "quantidade": 200,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/suspensao-direcao/cruzetas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Suspensão e Direção > Semi-Eixos e Homocinéticas > Outros",
+            "quantidade": 3,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/suspensao-direcao/semi-eixos-homocineticas/outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Suspensão e Direção > Semi-Eixos e Homocinéticas > Palieres",
+            "quantidade": 56,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/suspensao-direcao/palieres/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Tanques de Combustível",
+            "quantidade": 1233,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/tanques-combustivel/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Transmissão > Cabo Seletor de Marcha",
+            "quantidade": 204,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/transmissao/cabo-seletor-marcha/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Transmissão > Caixas de Transferência",
+            "quantidade": 128,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/transmissao/caixas-transferencia/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Transmissão > Caixas de Velocidades",
+            "quantidade": 69,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/transmissao/caixas-velocidades/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Transmissão > Cardans",
+            "quantidade": 782,
+            "link": "https://lista.mercadolivre.com.br/agro/pec-maquinaria-pesada/caixa-velocidades/cardans/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Transmissão > Coroas",
+            "quantidade": 1742,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/transmissao/coroas/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Transmissão > Cruzetas de Transmissão",
+            "quantidade": 299,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/transmissao/cruzetas-transmissao/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Transmissão > Eixes de Transmissão",
+            "quantidade": 896,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/transmissao/eixes-transmissao/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Transmissão > Eixos Solares",
+            "quantidade": 231,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/transmissao/eixos-solares/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Transmissão > Embreagem > Atuadores Hidráulicos",
+            "quantidade": 73,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/transmissao/embreagem/atuadores-hidraulicos/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Transmissão > Embreagem > Cilindros Escravos",
+            "quantidade": 93,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/transmissao/embreagem/cilindros-escravos/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Transmissão > Embreagem > Cilindros Mestres de Embreagem",
+            "quantidade": 178,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/transmissao/embreagem/cilindros-mestres-embreagem/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Transmissão > Embreagem > Crapodines de Embreagem",
+            "quantidade": 1996,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/embreagem/crapodines-embreagem/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Transmissão > Embreagem > Discos de Embreagem",
+            "quantidade": 1055,
+            "link": "https://lista.mercadolivre.com.br/pec-as-maquinaria-pesada-embreagem-discos/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Transmissão > Embreagem > Outros",
+            "quantidade": 21,
+            "link": "https://lista.mercadolivre.com.br/pec-as-maquinaria-pesada-embreagem-outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Transmissão > Embreagem > Volantes de Embreagem",
+            "quantidade": 134,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/transmissao/embreagem/volantes-embreagem/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Transmissão > Engranagens",
+            "quantidade": 513,
+            "link": "https://lista.mercadolivre.com.br/pec-as-maquinaria-pesada-caixa-velocidades-engranagens/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Transmissão > Engrenagens de Transmissão",
+            "quantidade": 2195,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/transmissao/engrenagens-transmissao/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Transmissão > Garfos",
+            "quantidade": 431,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/transmissao/garfos/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Transmissão > Kit de Diferencial",
+            "quantidade": 23912,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/transmissao/kit-diferencial/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Transmissão > Kits de Embreagens",
+            "quantidade": 23912,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/transmissao/kits-embreagens/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Transmissão > Outros",
+            "quantidade": 127,
+            "link": "https://lista.mercadolivre.com.br/pec-as-maquinaria-pesada-caixa-velocidades-outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Transmissão > Pinhões",
+            "quantidade": 40,
+            "link": "https://lista.mercadolivre.com.br/pec-as-maquinaria-pesada-caixa-velocidades-pinho-es/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Transmissão > Platôs de Embreagem",
+            "quantidade": 284,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/transmissao/platos-embreagem/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Transmissão > Retentores",
+            "quantidade": 7223,
+            "link": "https://lista.mercadolivre.com.br/pec-as-maquinaria-pesada-caixa-velocidades-retentores/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Transmissão > Rolamentos de Semi Eixos",
+            "quantidade": 2317,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/transmissao/rolamentos-semi-eixos/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Transmissão > Seletoras de Câmbios",
+            "quantidade": 161,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/transmissao/seletoras-cambios/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Transmissão > Tampas de Diferencial",
+            "quantidade": 237,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/transmissao/tampas-diferencial/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Turbinas de Sucção",
+            "quantidade": 691,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/turbinas-succao/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Unidade de Separação e Limpeza",
+            "quantidade": 70,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/unidade-separacao-limpeza/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Variador",
+            "quantidade": 33,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/variador/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Vidros > Outros",
+            "quantidade": 8,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/vidros/outros/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Vidros > Vidros Laterais",
+            "quantidade": 258,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/vidros/vidros-laterais/_NoIndex_True?original_category_landing=true"
+        },
+        {
+            "categoria": "Agro > Peças Maquinaria Agrícola > Vidros > Vidros Traseiros",
+            "quantidade": 229,
+            "link": "https://lista.mercadolivre.com.br/agro/pecas-maquinaria-agricola/vidros/vidros-traseiros/_NoIndex_True?original_category_landing=true"
+        }
+    ]
+}
